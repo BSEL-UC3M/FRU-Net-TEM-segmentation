@@ -1,0 +1,7 @@
+numpy
+tensorflow-gpu==1.13.1
+keras==1.2.2
+SimpleITK==1.1
+Pillow==4.3.0
+scikit-image
+skimage
