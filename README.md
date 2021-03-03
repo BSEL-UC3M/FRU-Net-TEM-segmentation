@@ -24,5 +24,12 @@ The example data consists of transmission electron microscopy (TEM) images of sm
 
 <img src=https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-019-49431-3/MediaObjects/41598_2019_49431_Fig3_HTML.png>
 
+## Use the code
+We provide a Jupyter Notebook that can be directly used in Google Colab: [![GoogleColab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esgomezm/FRU-Net-TEM-segmentation/blob/main/FRUnet_TEM_Exosomes_sEV.ipynb)
+
+The notebook allows you to:
+ - Reproduce the results in the paper.
+ - Fine-tune one of the trained models. Note that you should work on addapting your data if you wish to do so.
+
 ## Issues
 For any question or problem running the code, please use [GitHub issues](https://github.com/esgomezm/FRU-Net-TEM-segmentation/issues)
