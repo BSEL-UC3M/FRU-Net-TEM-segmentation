@@ -1,7 +1,8 @@
-numpy
-tensorflow-gpu==1.13.1
+numpy==1.15.1
+tensorflow==1.12.0
 keras==1.2.2
 SimpleITK==1.1
 Pillow==4.3.0
-scikit-image
-skimage
+scikit-image==0.14.0
+scikit-learn==0.19.2
+scipy==1.1.0
